@@ -1,0 +1,3 @@
+# info
+Auto generate version look like 0.0.0  0.0.0.1 ……
+# use

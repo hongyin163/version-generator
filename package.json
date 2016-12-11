@@ -1,0 +1,22 @@
+{
+  "name": "version-generator",
+  "version": "1.0.0",
+  "description": "Auto generate version ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hongyin163/version-generator.git"
+  },
+  "keywords": [
+    "version"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hongyin163/version-generator/issues"
+  },
+  "homepage": "https://github.com/hongyin163/version-generator#readme"
+}
